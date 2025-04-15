@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Shirly Sunchu]
 
-<!--
-**shirlysunchu/shirlysunchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Python Developer | Flask • APIs • SQL  
+🚀 Passionate about solving problems with code and building real-world apps.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript (basic)
+- **Web**: Flask, HTML/CSS
+- **Database**: SQLite, MySQL
+- **Tools**: Git, GitHub, Postman
+
+---
+
+## 📬 Let's Connect!
+- [LinkedIn](http://www.linkedin.com/in/shirly-sunchu-94509a307)
+- [Email](mailto:shirlysunchu0@gmail.com)
+
