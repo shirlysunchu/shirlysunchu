@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Shirly Sunchu]
+# 👋 Hi there! I'm Shirly Sunchu
 
 🎓 Python Developer | Flask • APIs • SQL  
 🚀 Passionate about solving problems with code and building real-world apps.  
